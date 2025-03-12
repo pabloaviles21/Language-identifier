@@ -1,2 +1,2 @@
-# trigram-based-language-identifier
+# Trigram-Based-Language-Identifier
 Text Language Identifier
